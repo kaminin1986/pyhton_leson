@@ -1,7 +1,7 @@
 #https://www.youtube.com/watch?v=Iy6QFHzyi_4&t=638s
 # importing the eel library 
 import eel
-import bottle.ext.websocket as wbs
+#import bottle.ext.websocket as wbs
 
 #wds
 
